@@ -1,7 +1,3 @@
 # PemrogramanWeb
 
-# Nama : Jannatul Salsabila Putri Sanesa
-
-# NPM : 140810220030
-
-# Tugas : Tugas 1
+140810220030_Tugas 1
