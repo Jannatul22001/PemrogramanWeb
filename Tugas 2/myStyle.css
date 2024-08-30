@@ -1,0 +1,29 @@
+body {
+    font-family: cursive, Lucida;
+    background-image: url('https://i.pinimg.com/564x/e3/a4/1f/e3a41f4afa72ba310419802011363b42.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+td{
+    border: 2px solid #f9aeae;
+    text-align: left;
+    padding: 8px;
+    border-radius: 5px;
+}
+table {
+    border: 2px solid #fc8282;
+    border-radius: 10px;
+}
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(1, 1, 1, 1);
+    max-width: 400px;
+    width: 100%;
+}
+h1{
+    color: #ffffff;
+    margin-bottom: 10px;
+    text-shadow: 0 0 10px rgba(1, 1, 1, 1);
+}
