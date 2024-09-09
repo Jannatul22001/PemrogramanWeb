@@ -1,0 +1,79 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style untuk body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #3b5998;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.2em;
+}
+
+/* Main content styling */
+main {
+    margin-top: 30px;
+    text-align: center;
+}
+
+main h2 {
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin: 15px 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #007BFF;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+ul li a:hover {
+    color: #0056b3;
+    font-weight: bold;
+}
+
+/* Nested list styling for Tugas 3-1 and Tugas 3-2 */
+ul ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+ul ul li a {
+    font-size: 1.1em;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 30px;
+    box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.1);
+}
